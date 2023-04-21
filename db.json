@@ -2,33 +2,49 @@
     "users" : [
         {
             "id": 1,
-            "name": "Gertrudis Tatterton",
+            "name": "Raj",
             "age": 18,
-            "email": "gtatterton0@ehow.com"
+            "email": "raj@gmail.com"
         },
         {
             "id": 2,
-            "name": "Gail Newbatt",
+            "name": "Rahul",
             "age": 53,
-            "email": "gnewbatt1@un.org"
+            "email": "rahul@gmail.com"
         },
         {
             "id": 3,
-            "name": "Walliw Wilstead",
+            "name": "Vaibhav",
             "age": 49,
-            "email": "wwilstead2@tripadvisor.com"
+            "email": "vaibhav@gmail.com"
         },
         {
             "id": 4,
-            "name": "Abran Proback",
+            "name": "Neerav",
             "age": 29,
-            "email": "aproback3@theglobeandmail.com"
+            "email": "neerav@gmail.com"
         },
         {
             "id": 5,
-            "name": "Roda Chappelow",
+            "name": "Ajay",
             "age": 31,
-            "email": "rchappelow4@oaic.gov.au"
+            "email": "ajay@gmail.com"
         }
-    ]
+    ],
+    "dogs": [
+        {
+          "id": 1,
+          "name": "Cherry",
+          "age": 2,
+          "place": "Visakhapatnam",
+          "gender": "Male"
+        },
+        {
+          "id": 1,
+          "name": "Tommy",
+          "age": 3,
+          "place": "Banglore",
+          "gender": "Female"
+        }
+      ]
 }
